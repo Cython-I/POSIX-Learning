@@ -34,6 +34,5 @@ int main(int argc, char *argv [])
         exit(EXIT_FAILURE);
     }
 
-    //pthread_join
     return 0;
 }
